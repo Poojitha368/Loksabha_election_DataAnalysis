@@ -1,4 +1,4 @@
-🗳️ Loksabha Election Data Analysis
+🗳️ Loksabha Election Data Analysis<br>
 Welcome to my interactive Power BI dashboard, where I explore the Loksabha elections of 2014 and 2019, and predict the results for 2024!
 
 
