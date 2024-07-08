@@ -2,8 +2,6 @@
 
 Welcome to my **interactive Power BI dashboard**, where I explore the Loksabha elections of **2014 and 2019**, and predict the results for **2024**!
 
-![Dashboard Preview](images/Dashborad preview.jpeg)
-
 ## **Highlights**
 
 - **Interactive Dashboard**: Multiple pages of detailed insights.
@@ -15,8 +13,6 @@ Welcome to my **interactive Power BI dashboard**, where I explore the Loksabha e
 
 - **State Analysis**: Explore voting patterns and trends across different states.
 - **Constituency Analysis**: Dive into detailed data at the constituency level.
-
-![State Analysis](images/state_analysis.png) ![Constituency Analysis](images/constituency_analysis.png)
 
 ## **Why This Project?**
 
