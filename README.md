@@ -2,7 +2,14 @@
 
 Welcome to my **interactive Power BI dashboard**, where I explore the Loksabha elections of **2014 and 2019**, and predict the results for **2024**!
 
-You can view my dashboard live through this link: https://app.powerbi.com/view?r=eyJrIjoiNjBjOTY1NzctZDIyMS00Mjg1LTlkNDktODhhODg3YmY5ZjRmIiwidCI6ImFhZjQxMmNjLTEwY2EtNGRhNC1iZjE2LTYxMjJlNmZjNjQ4NiJ9&pageName=1ed3ff675d20c4bca1ee
+You can view my dashboard live through this link:    
+https://app.powerbi.com/view?r=eyJrIjoiNjBjOTY1NzctZDIyMS00Mjg1LTlkNDktODhhODg3YmY5ZjRmIiwidCI6ImFhZjQxMmNjLTEwY2EtNGRhNC1iZjE2LTYxMjJlNmZjNjQ4NiJ9&pageName=1ed3ff675d20c4bca1ee
+
+
+A page from the dashboard: 
+
+![image](https://github.com/Poojitha368/Loksabha_election_DataAnalysis/assets/132087097/825ca30c-4b9c-4f01-9eb4-7d9f7e177ffa)
+
 
 ## **Highlights**
 
